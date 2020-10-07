@@ -1,0 +1,57 @@
+data = {
+
+    "second_year":[
+        {
+            "name":"Ishaan Saxena",
+            "branch":"CSE",
+            "type":"ML"
+        }
+        {
+            "name":"Anushka Mishra",
+            "branch":"CSIT",
+            "type":"Android"
+        }
+        {
+            "name":"Ayushi Goel",
+            "branch":"CS",
+            "type":"ML"
+        }
+        {
+            "name":"ROhit Abhishek",
+            "branch":"CSE",
+            "type":"Web"
+        }
+        {
+            "name":"Arpit Chauhan",
+            "branch":"CSIT",
+            "type":"Android"
+        }
+        {
+            "name":"Siddharth Samanta",
+            "branch":"CSE",
+            "type":"Web"
+        }
+        {
+            "name":"Amit Chaudhary",
+            "branch":"CSE",
+            "type":"Web"
+        }
+        {
+            "name":"Akshat garg",
+            "branch":"CSE",
+            "type":"Web"
+        }
+        {
+            "name":"Arpan Malik",
+            "branch":"CSE",
+            "type":"Web"
+        }
+        {
+            "name":"Samyak Jain",
+            "branch":"CSIT",
+            "type":"Web"
+        }
+        
+        ]
+
+    }
