@@ -9,7 +9,7 @@ data = {
         {
             "name":"Anushka Mishra",
             "branch":"CSIT",
-            "type":"Android"
+            "type":"App Developer"
         }
         {
             "name":"Ayushi Goel",
@@ -24,7 +24,7 @@ data = {
         {
             "name":"Arpit Chauhan",
             "branch":"CSIT",
-            "type":"Android"
+            "type":"App Developer"
         }
         {
             "name":"Siddharth Samanta",
